@@ -23,7 +23,7 @@ const Banner = () => {
                 
              <p className=" text-4xl py-3 ">Welcome ! To Our Delightful Task Platform</p>
              <p className="text-3xl " > We are providing Best tast since <span className="text-blue-500 text-4xl" >2 years</span> </p>
-             <p className="text-2xl py-3">In this platform </p>
+             <p className="text-2xl py-3">In this platfo </p>
             <Link to={'/log-in'}><p > <button className="btn btn-outline btn-info text-white ">
                 Let's Elplore  Now 
              </button></p></Link>
