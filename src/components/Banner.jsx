@@ -21,7 +21,7 @@ const Banner = () => {
             
             <div data-aos='fade-up' className="lg:w-[50%] text-white font-Dosis text-center lg:text-start lg:ml-2 mt-10 lg:mt-0 md:mt-10" >
                 
-             <p className=" text-4xl py-3 ">Welcome ! To Our Delightful Task Platform</p>
+             <p className=" text-4xl py-3 ">Welco ! To Our Delightful Task Platform</p>
              <p className="text-3xl " > We are providing Best tast since <span className="text-blue-500 text-4xl" >2 years</span> </p>
              <p className="text-2xl py-3">In this platform </p>
             <Link to={'/log-in'}><p > <button className="btn btn-outline btn-info text-white ">
