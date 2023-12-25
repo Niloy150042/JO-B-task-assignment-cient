@@ -3,7 +3,7 @@
 const Ongoingtask = () => {
     return (
         <div>
-             ongoing task 
+           
         </div>
     );
 };

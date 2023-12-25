@@ -27,8 +27,8 @@ const Dashboard = () => {
             <Link to={'managetask'}><div className="flex  mb-2 py-2 items-center justify-center  gap-3 font-bold text-xl bg-blue-900 text-white rounded-full"> Manage-task   <MdManageAccounts/> </div></Link>
 
            <Link to={'todotask'}> <div className="flex  mb-2 py-2 items-center justify-center  gap-3 font-bold text-xl bg-blue-900 text-white rounded-full"> To-do Task <RiMastodonLine/> </div></Link>
-           <Link to={'ongoingtask'} > <div className="flex  mb-2 py-2 items-center justify-center  gap-3 font-bold text-xl bg-blue-900 text-white rounded-full">Ongoing-task <IoIosGitNetwork/> </div></Link>
-            <Link to={'completedtask'}><div className="flex  mb-2 py-2 items-center justify-center  gap-3 font-bold text-xl bg-blue-900 text-white rounded-full">Completed -task <MdOutlineIncompleteCircle/> </div></Link>
+           
+           
 
             <div className="h-[2px] bg-black    "></div>
             <Link to={'/'}><p className="flex items-center justify-center py- font-Roboto text-xl text-white gap-2 bg-blue-500 rounded-xl  mt-3   ">Home <FaHome></FaHome> </p></Link>
